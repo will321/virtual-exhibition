@@ -20,7 +20,7 @@ source-code: https://github.com/will321/virtual-exhibition.git
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "The Other" in Yuan Dynasty Painting
+title: The Other in Yuan Dynasty Painting
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
@@ -32,7 +32,7 @@ This exhibition showcases a selection of paintings by Han-Chinese artists that d
 Whether or not the artists intended for these works to be pure visual depictions or to contain political and personal messages, all of these paintings function as a visual peek into society. Serving as a helpful way to better understand and describe the complexity and dynamics of the Yuan dynasty culture.
 "
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Sharleen Wang
 
 ##########
 # COLLECTION SETTINGS
